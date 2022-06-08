@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyush
-- I’m currently working and learning at [Rario](https://rario.com).
+- 👀 I’m currently working and learning at [Rario](https://rario.com).
 - 👀 I’m interested in Full-stack Development.
 - 🌱 I’m currently learning Basic of Backend Development using Node and Express.Js.
 - 💞️ I’m looking to collaborate on some FrontEnd open source projects.
@@ -13,6 +13,8 @@ I am Proficient in These Technologies
 # Html
 # CSS
 # ReactJS
+# NextJS
+# TypeScript
 # NodeJS
 <!-- # Android
 # Solidity
