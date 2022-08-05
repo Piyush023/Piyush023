@@ -8,7 +8,6 @@
 
 I am Proficient in These Technologies
 # Java
-# C++
 # JavaScript
 # Html
 # CSS
