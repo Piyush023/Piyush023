@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyush
-- 👀 I’m currently working and learning at [Rario](https://rario.com).
+<!-- - 👀 I’m currently working and learning at [Rario](https://rario.com).
 - 👀 I’m interested in Full-stack Development.
 - 🌱 I’m currently learning Basic of Backend Development using Node and Express.Js.
 - 💞️ I’m looking to collaborate on some FrontEnd open source projects.
@@ -15,7 +15,7 @@ I am Proficient in These Technologies
 # NextJS
 # TypeScript
 # NodeJS
-<!-- # Android
+# Android
 # Solidity
 # Web3
 Piyush023/Piyush023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
