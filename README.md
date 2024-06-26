@@ -9,8 +9,7 @@ I am Proficient in These Technologies
 # Java
 # ReactJS
 # NextJS
-# Android
-# React Native
+# React-Native
 # TypeScript
 # JavaScript
 # Html
