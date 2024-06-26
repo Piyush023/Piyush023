@@ -12,7 +12,7 @@
 - :speech_balloon: Ask me about **NextJs,TypeScript**
 
 - :mailbox: How to reach me 
-  - [[Piyush](https://www.linkedin.com/in/piyush-khurana-98338b167/)
+  - [Piyush Khurana](https://www.linkedin.com/in/piyush-khurana-98338b167/)
   - **piyushkhurana23@gmail.com**
 
 <h3 align="left">Languages and Tools:computer:: </h3>
