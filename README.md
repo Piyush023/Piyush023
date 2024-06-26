@@ -11,7 +11,9 @@
 
 - :speech_balloon: Ask me about **NextJs,TypeScript**
 
-- :mailbox: How to reach me **piyushkhurana23@gmail.com** [Linkedin](https://www.linkedin.com/in/piyush-khurana-98338b167/)
+- :mailbox: How to reach me 
+  - [[Piyush](https://www.linkedin.com/in/piyush-khurana-98338b167/)
+  - **piyushkhurana23@gmail.com**
 
 <h3 align="left">Languages and Tools:computer:: </h3>
 <p align="left"> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
