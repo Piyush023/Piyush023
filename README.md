@@ -5,11 +5,11 @@
 
 - :telescope: I'm currently working at [RARIO](https://www.rario.com/)
 
-- :seedling: I'm currently learning **Nextjs,TypeScript and React-Native.**
+- :seedling: I'm currently learning **TypeScript, App and Backend Development**
 
 - :dancers: I'm looking to collaborate on **Full Stack Web Development**
 
-- :speech_balloon: Ask me about **NextJs,TypeScript**
+- :speech_balloon: Ask me about **NextJs,TypeScript and React-Native**
 
 - :mailbox: How to reach me 
   - **[Piyush Khurana](https://www.linkedin.com/in/piyush-khurana-98338b167/)**
