@@ -5,7 +5,7 @@
 
 - :telescope: I'm currently working at [RARIO](https://www.rario.com/)
 
-- :seedling: I'm currently learning **TypeScript, App and Backend Development**
+- :seedling: I'm currently learning **App and Backend Development**
 
 - :dancers: I'm looking to collaborate on **Full Stack Web Development**
 
