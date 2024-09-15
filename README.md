@@ -9,7 +9,7 @@
 
 - :dancers: I'm looking to collaborate on **Full Stack Web Development**
 
-- :speech_balloon: Ask me about **JavaScript, TypeScript, ReactJs, NextJs and React-Native**
+- :speech_balloon: Ask me about **ReactJs, NextJs, React Native, JavaScript and TypeScript, **
 
 - :mailbox: How to reach me 
   - **[Piyush Khurana](https://www.linkedin.com/in/piyush-khurana-98338b167/)**
